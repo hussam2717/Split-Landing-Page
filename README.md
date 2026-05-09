@@ -10,3 +10,7 @@ A modern and responsive Split Landing Page built using HTML and CSS.   This proj
 - Flexbox alignment
 - Clean typography
 - Beginner-friendly project structure
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
