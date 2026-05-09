@@ -33,3 +33,9 @@ Responsive layouts
 Section splitting techniques
 Button styling
 UI spacing and alignment
+
+## 🌟 Future Improvements
+Add smooth hover animations
+Add JavaScript interactions
+Improve mobile responsiveness
+Add background images/video
