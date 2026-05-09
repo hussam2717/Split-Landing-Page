@@ -18,3 +18,10 @@ A modern and responsive Split Landing Page built using HTML and CSS.   This proj
 ## 📂 Project Structure
 ├── index.html
 ├── style.css
+
+📸 Preview
+The page contains:
+Left section for Design
+Right section for Development
+Centered content with CTA buttons
+Elegant dark & light theme combination
