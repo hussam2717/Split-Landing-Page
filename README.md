@@ -14,3 +14,7 @@ A modern and responsive Split Landing Page built using HTML and CSS.   This proj
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
+
+## 📂 Project Structure
+├── index.html
+├── style.css
