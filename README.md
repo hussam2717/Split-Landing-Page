@@ -9,9 +9,9 @@ A modern and responsive Split Landing Page built using HTML and CSS.   This proj
 - Hover button effects
 - Flexbox alignment
 - Clean typography
-- Beginner-friendly project structure
+- Beginner-friendly project structure.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used.
 - HTML5
 - CSS3
 
